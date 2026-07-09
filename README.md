@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0275-h-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0275-h-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
