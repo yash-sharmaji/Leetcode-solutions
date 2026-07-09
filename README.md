@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
