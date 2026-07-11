@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0268-missing-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
@@ -80,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
