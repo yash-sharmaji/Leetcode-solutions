@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0275-h-index-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
