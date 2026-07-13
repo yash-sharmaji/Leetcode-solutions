@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
