@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1331-rank-transform-of-an-array](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1331-rank-transform-of-an-array](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0611-valid-triangle-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Enumeration
 |  |
 | ------- |
