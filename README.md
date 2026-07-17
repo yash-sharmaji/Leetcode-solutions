@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0268-missing-number](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-sharmaji/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
